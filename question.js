@@ -1,5 +1,5 @@
 var questions = [{
-	"question": "Worauf freut Rebecca sich?",
+	"question": "Worauf freut Rebecca sich ?",
 	"option1": "Weihnachtsferien",
 	"option2": "Erntedankfest",
 	"option3": "Valentinstag",
@@ -13,7 +13,7 @@ var questions = [{
 	"option4": "3 Jahre",
 	"answer": "3"
 }, {
-	"question": "Wo kaufen die Leute Lebensmittel in Amerika ein?",
+	"question": "Wo kaufen die Leute Lebensmittel ein ",
 	"option1": "Bauernmaerkten",
 	"option2": "Supermaerkten",
 	"option3": "Einkaufszentrum",
@@ -27,7 +27,7 @@ var questions = [{
 	"option4": "Leipzig",
 	"answer": "2"
 }, {
-	"question": "Wo ist ihr Heimatstadt?",
+	"question": "Wo ist ihre Heimatstadt?",
 	"option1": "Berlin",
 	"option2": "Dortmund",
 	"option3": "Bayern",
@@ -48,14 +48,14 @@ var questions = [{
 	"option4": "von 7 bis 13 Uhr ",
 	"answer": "2"
 }, {
-	"question": "Welche Tiere sind auf dem Bauernmarkt?",
+	"question": "Welche Tiere sind auf dem Bauernmarkt? ?",
 	"option1": "Hunde",
 	"option2": "Schweine",
 	"option3": "Kuehe",
 	"option4": "Katzen",
 	"answer": "1"
 }, {
-	"question": "Was ist ihr Lieblingsbrot?",
+	"question": "Was ist ihre Lieblingsbrot?",
 	"option1": "Feigenbrot",
 	"option2": "Sauerteigbrot",
 	"option3": "Vollkornbrot",
