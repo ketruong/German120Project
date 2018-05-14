@@ -5,6 +5,7 @@ This was for our final video project for GMAN 120. This website is intended to j
 
 # Website
 Here's a preview of the website.
+
 ![Website](images/web.png)
 
 Access the site here: https://ketruong.github.io/German120Project/
